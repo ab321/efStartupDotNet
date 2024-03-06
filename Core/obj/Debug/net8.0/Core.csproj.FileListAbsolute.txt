@@ -1,0 +1,11 @@
+/home/abdul/4BHIF/pose/dotNet/efstartup/Core/bin/Debug/net8.0/Core.deps.json
+/home/abdul/4BHIF/pose/dotNet/efstartup/Core/bin/Debug/net8.0/Core.dll
+/home/abdul/4BHIF/pose/dotNet/efstartup/Core/bin/Debug/net8.0/Core.pdb
+/home/abdul/4BHIF/pose/dotNet/efstartup/Core/obj/Debug/net8.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdul/4BHIF/pose/dotNet/efstartup/Core/obj/Debug/net8.0/Core.AssemblyInfoInputs.cache
+/home/abdul/4BHIF/pose/dotNet/efstartup/Core/obj/Debug/net8.0/Core.AssemblyInfo.cs
+/home/abdul/4BHIF/pose/dotNet/efstartup/Core/obj/Debug/net8.0/Core.csproj.CoreCompileInputs.cache
+/home/abdul/4BHIF/pose/dotNet/efstartup/Core/obj/Debug/net8.0/Core.dll
+/home/abdul/4BHIF/pose/dotNet/efstartup/Core/obj/Debug/net8.0/refint/Core.dll
+/home/abdul/4BHIF/pose/dotNet/efstartup/Core/obj/Debug/net8.0/Core.pdb
+/home/abdul/4BHIF/pose/dotNet/efstartup/Core/obj/Debug/net8.0/ref/Core.dll

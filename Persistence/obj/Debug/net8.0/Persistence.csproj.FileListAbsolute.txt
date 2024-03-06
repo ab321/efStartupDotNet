@@ -1,0 +1,17 @@
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/bin/Debug/net8.0/Persistence.deps.json
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/bin/Debug/net8.0/Persistence.dll
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/bin/Debug/net8.0/Persistence.pdb
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/bin/Debug/net8.0/Core.dll
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/bin/Debug/net8.0/Core.pdb
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/obj/Debug/net8.0/Persistence.csproj.AssemblyReference.cache
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/obj/Debug/net8.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/obj/Debug/net8.0/Persistence.dll
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/obj/Debug/net8.0/refint/Persistence.dll
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/obj/Debug/net8.0/Persistence.pdb
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/obj/Debug/net8.0/ref/Persistence.dll
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/bin/Debug/net8.0/Persistence.runtimeconfig.json
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/obj/Debug/net8.0/Persistence.genruntimeconfig.cache
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/obj/Debug/net8.0/Persiste.61C28332.Up2Date
