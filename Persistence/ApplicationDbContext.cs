@@ -2,6 +2,7 @@
 using Core.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
 namespace Persistence;
@@ -14,11 +15,19 @@ public class ApplicationDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder
-            .LogTo(msg => Debug.WriteLine(msg),
-                LogLevel.Debug,
-                DbContextLoggerOptions.SingleLine | DbContextLoggerOptions.UtcTime)
-            .UseNpgsql("Host=localhost;Port=5432;Database=db;Username=app;Password=app");
+        if (!optionsBuilder.IsConfigured)
+        {
+            var configuration = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json")
+                .Build();
+            
+            optionsBuilder
+                .LogTo(msg => Debug.WriteLine(msg),
+                    LogLevel.Debug,
+                    DbContextLoggerOptions.SingleLine | DbContextLoggerOptions.UtcTime)
+                .UseNpgsql(configuration["ConnectionStrings:Default"]);
+        }
     }
     
     public void foo(){}

@@ -15,3 +15,5 @@
 /home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/bin/Debug/net8.0/Persistence.runtimeconfig.json
 /home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/obj/Debug/net8.0/Persistence.genruntimeconfig.cache
 /home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/obj/Debug/net8.0/Persiste.61C28332.Up2Date
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/bin/Debug/net8.0/appsettings.json
+/home/abdul/4BHIF/pose/dotNet/efstartup/Persistence/obj/Debug/net8.0/Persistence.sourcelink.json
